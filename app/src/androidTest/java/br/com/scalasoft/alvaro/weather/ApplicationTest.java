@@ -1,4 +1,4 @@
-package br.com.scalasoft.alvaro.wheater;
+package br.com.scalasoft.alvaro.weather;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

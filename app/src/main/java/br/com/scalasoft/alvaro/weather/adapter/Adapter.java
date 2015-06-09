@@ -1,4 +1,4 @@
-package br.com.scalasoft.alvaro.wheater.adapter;
+package br.com.scalasoft.alvaro.weather.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import br.com.scalasoft.alvaro.wheater.R;
+import br.com.scalasoft.alvaro.weather.R;
 
 /**
  * Created by alvaro on 02/06/15.

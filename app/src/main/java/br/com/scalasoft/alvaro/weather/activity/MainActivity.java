@@ -1,6 +1,5 @@
-package br.com.scalasoft.alvaro.wheater.activity;
+package br.com.scalasoft.alvaro.weather.activity;
 
-import android.app.FragmentManager;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.net.Uri;
@@ -12,7 +11,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
-import br.com.scalasoft.alvaro.wheater.R;
+import br.com.scalasoft.alvaro.weather.R;
 
 
 public class MainActivity extends ActionBarActivity {

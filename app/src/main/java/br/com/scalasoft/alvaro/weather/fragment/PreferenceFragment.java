@@ -1,4 +1,4 @@
-package br.com.scalasoft.alvaro.wheater.fragment;
+package br.com.scalasoft.alvaro.weather.fragment;
 
 import android.app.Activity;
 import android.net.Uri;
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import br.com.scalasoft.alvaro.wheater.R;
+import br.com.scalasoft.alvaro.weather.R;
 
 /**
  * A simple {@link Fragment} subclass.

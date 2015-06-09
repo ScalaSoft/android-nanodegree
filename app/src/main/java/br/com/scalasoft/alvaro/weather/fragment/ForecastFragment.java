@@ -1,4 +1,4 @@
-package br.com.scalasoft.alvaro.wheater.fragment;
+package br.com.scalasoft.alvaro.weather.fragment;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -16,13 +16,10 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.json.JSONTokener;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -32,11 +29,10 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.HashMap;
 
-import br.com.scalasoft.alvaro.wheater.R;
-import br.com.scalasoft.alvaro.wheater.activity.DetailActivity;
-import br.com.scalasoft.alvaro.wheater.adapter.Adapter;
+import br.com.scalasoft.alvaro.weather.R;
+import br.com.scalasoft.alvaro.weather.activity.DetailActivity;
+import br.com.scalasoft.alvaro.weather.adapter.Adapter;
 
 
 /**
